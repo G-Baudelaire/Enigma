@@ -2,6 +2,8 @@
 
 An archived Python implementation of the Enigma machine (rotors, reflectors and plugboard).
 
+Written during my second year of university.
+
 ## Usage
 
 Requires Python 3. `main.py` also needs `nose` (`pip install nose`) for its tests.
